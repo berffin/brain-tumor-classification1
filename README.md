@@ -53,5 +53,5 @@ Proje için gerekli kütüphaneler `requirements.txt` dosyasında belirtilmişti
 
 Proje Linkleri
 - **Kaggle Notebook:** https://www.kaggle.com/code/berfintavan/deep-learning-project-brain-tumor-mri-data-set-cnn/edit
-- **GitHub Repository:** https://github.com/berffin/brain-tumor-classification
+- **GitHub Repository:** https://github.com/berffin/brain-tumor-classification1
 
