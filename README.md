@@ -51,7 +51,7 @@ Proje Kaggle platformunda geliştirilmiş olup, tüm eğitim ve değerlendirme s
 Proje için gerekli kütüphaneler `requirements.txt` dosyasında belirtilmiştir.
 
 
-Proje Limkleri
+Proje Linkleri
 - **Kaggle Notebook:** https://www.kaggle.com/code/berfintavan/deep-learning-project-brain-tumor-mri-data-set-cnn/edit
 - **GitHub Repository:** https://github.com/berffin/brain-tumor-classification
 
